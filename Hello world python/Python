@@ -1,2 +1,11 @@
 for x in range(10):
     print("Hello, world! " + str(x+1))
+    
+    
+print ("welcome to hacktoberfest")
+
+
+for i in range(10):
+    print("lets support open source")
+
+
